@@ -1,0 +1,10 @@
+html {
+    font-family: 'Ubuntu', sans-serif;
+  }
+h1 {
+    padding-bottom: 15px; border-bottom:1px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
