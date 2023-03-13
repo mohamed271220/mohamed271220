@@ -1,4 +1,5 @@
 
+<h2> Hi👋 ,I'm Mohamed Magdy </h2>
 <h1> Junior MERN stack developer. </h1>
     <img align='right' src="https://github.com/mohamed271220/Assets/blob/main/mobile.png" alt="mobile">
     <div align="left">Creative, Passionate, and Efficient Junior-MERN-Stack developer/UX designer with small
