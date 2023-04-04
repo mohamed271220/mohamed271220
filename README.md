@@ -16,6 +16,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed271220&layout=compact&langs_count=16&theme=dracula"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed271220&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohamed271220&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
