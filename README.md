@@ -3,7 +3,7 @@
 
 
 <h1> Hi👋 ,I'm Mohamed Magdy a Junior MERN stack developer. </h1>
-    <img align='right' src="https://github.com/mohamed271220/Assets/blob/main/mobile.png" alt="mobile">
+    <img align='right' src="https://github.com/mohamed271220/Assets/blob/main/giphy.gif" alt="gif">
     <div align="left">Creative, Passionate, and Efficient Junior-MERN-Stack developer/UX designer with small
         experience in Web3 and software testing .
     </div>
