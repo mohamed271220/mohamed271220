@@ -2,7 +2,7 @@
 <h2>They did not know it was impossible, so they did it.</h2>
 
 
-<h1> Hi👋 ,I'm Mohamed Magdy a Junior MERN stack developer. </h1>
+<h1> A junior MERN stack developer. </h1>
     <img align='right' src="https://github.com/mohamed271220/Assets/blob/main/giphy.gif" alt="gif">
     <div align="left">Creative, Passionate, and Efficient Junior-MERN-Stack developer/UX designer with small
         experience in Web3 and software testing .
