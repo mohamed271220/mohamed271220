@@ -4,8 +4,7 @@
 
 <h1> A junior MERN stack developer. </h1>
     <img align='right' src="https://github.com/mohamed271220/Assets/blob/main/giphy.gif" alt="gif">
-    <div align="left">Creative, Passionate, and Efficient Junior-MERN-Stack developer/UX designer with small
-        experience in Web3 and software testing .
+    <div align="left">Front-end ReactJs developer mainly | NodeJs | Express | Mongodb | Web Designer | Freelancer | Open source enthusiast
     </div>
 
 
