@@ -2,7 +2,7 @@
 
 
 <h1> They did not know it was impossible, so they did it.</h1>
-    <div align="center">As a highly motivated Full-Stack developer. I am passionate about creating innovative web applications and looking forward to enhance my skills and refine my knowledge even further. Seeking an opportunity as a Full-Stack developer or Frontend developer as a starter in a company with respectable reputation.
+    <div align="center">As a highly motivated Full-Stack developer. I am passionate about creating innovative web applications and looking forward to enhance my skills and refine my knowledge even further. Seeking an opportunity as a Full-Stack developer.
     </div>
 
 
