@@ -1,22 +1,109 @@
+<h1 align="center">
+  Hi, Nice to meet you.
+</h1>
+<h3 align="center">
+  I am a Full Stack Developer.
+</h3>
+<div align="center">
+  <img src="https://github.com/mohamed271220/mohamed271220/blob/main/divider1.png" alt="divider"/>
+</div>
 
+<h3 align="center"><img src="https://github.com/mohamed271220/mohamed271220/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
+<div align="center" style="witdh:100%"> 
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>Frontend<b></td>
+      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>Dev<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/HTML-blue" /> 
+        <img src="https://img.shields.io/badge/React-blue" /> 
+        <img src="https://img.shields.io/badge/CSS-blue" />
+        <img src="https://img.shields.io/badge/JavaScript-blue" /> 
+        <img src="https://img.shields.io/badge/TypeScript-blue" />
+        <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
+        <img src="https://img.shields.io/badge/Tailwind-blue" /> 
+        <img src="https://img.shields.io/badge/Next-blue" /> 
+      </td>      
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Python-blue" /> 
+        <img src="https://img.shields.io/badge/Selenium-blue" />        
+        <img src="https://img.shields.io/badge/Node.js-blue" /> 
+        <img src="https://img.shields.io/badge/Express-blue" /> 
+      </td>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
+        <img src="https://img.shields.io/badge/Docker-blue" /> 
+        <img src="https://img.shields.io/badge/Jira-blue" /> 
+        <img src="https://img.shields.io/badge/MySQL-blue" /> 
+        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
+        <img src="https://img.shields.io/badge/MongoDB-blue" /> 
+        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
+      </td>
+    </tr>
+  </table>
+  
+ <table>
+    <tr>
+      <td valign="center" width="100px"><b>Design<b></td>
+    </tr>
+    <tr>
+     <td valign="center" align="center" width="300px">
+       <img src="https://img.shields.io/badge/Photoshop-blue" />
+       <img src="https://img.shields.io/badge/Adobe XD-blue" />
+       <img src="https://img.shields.io/badge/Figma-blue" />
+       <img src="https://img.shields.io/badge/Three.js-blue" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h1> They did not know it was impossible, so they did it.</h1>
-    <div align="center">As a highly motivated Full-Stack developer. I am passionate about creating innovative web applications and looking forward to enhance my skills and refine my knowledge even further. Seeking an opportunity as a Full-Stack developer.
-    </div>
+<div align="center">
+  <img src="https://github.com/mohamed271220/mohamed271220/blob/main/divider2.png" alt="divider"/>
+</div> 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
+</div>
 
+<div align="center">
+  <img src="https://github.com/mohamed271220/mohamed271220/blob/main/divider2.png" alt="divider"/>
+</div>    
+<div align="center">
+  <img src="https://github.com/mohamed271220/mohamed271220/blob/main/P.png" alt="Portfolio"/>
+</div>
 
+<div align="center">
+  <img src="https://github.com/mohamed271220/mohamed271220/blob/main/divider1.png" alt="divider"/>
+</div>
 
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mohamed271220&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed271220&theme=2077"/>
+</p>
+<p align="center">
+</p>
+<p align="center">
+</p>
+<br>
+<br>
+<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=mohamed271220&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=mohamed271220&theme=algolia" alt="mohamed271220" /></a></p> 
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed271220&layout=compact&langs_count=16&theme=dracula"/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohamed271220&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/magdyhenidak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="magdyhenidak" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-m-ibrahim-51a88b252/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:mohamedaprahym@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://specter-mohamed-m-ibrahim.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  
 </p>
 
+<h2 align="center"> Thanks for visiting my profile. </h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
