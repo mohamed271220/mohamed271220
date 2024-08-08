@@ -68,12 +68,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/mohamed271220/mohamed271220/blob/main/divider2.png" alt="divider"/>
-</div>    
-<div align="center">
-  <img src="https://github.com/mohamed271220/mohamed271220/blob/main/P.png" alt="Portfolio"/>
-</div>
 
 <div align="center">
   <img src="https://github.com/mohamed271220/mohamed271220/blob/main/divider1.png" alt="divider"/>
