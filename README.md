@@ -75,7 +75,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-m-ibrahim-51a88b252/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:mohamedaprahym@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="mailto:mohamed.magdy.business4@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://portfolio-three-lilac-71.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
   
