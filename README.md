@@ -58,7 +58,7 @@
 </div>
 
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mohamed271220&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+  <img src = "https://imgur.com/iCBjqXZ">
 </p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed271220&theme=2077"/>
