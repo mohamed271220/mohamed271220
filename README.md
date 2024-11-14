@@ -58,7 +58,7 @@
 </div>
 
 <p align = "center">
-  <img src = "https://imgur.com/iCBjqXZ">
+  <img src = "https://github.com/mohamed271220/mohamed271220/blob/main/chrome_E3ge6pwzML.png">
 </p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed271220&theme=2077"/>
