@@ -2,7 +2,7 @@
   Hi, Nice to meet you.
 </h1>
 <h3 align="center">
-  I am a Full Stack Developer.
+  I am a Software Engineer. 
 </h3>
 <div align="center">
   <img src="https://github.com/mohamed271220/mohamed271220/blob/main/divider1.png" alt="divider"/>
